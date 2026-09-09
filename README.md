@@ -70,7 +70,7 @@ I am currently focused on building **real-world, end-to-end Data Analytics proje
 
 - PySpark
 - Apache Spark
-- Databricks
+- Databrick
 - Microsoft Azure
 - AWS
 - Amazon S3
